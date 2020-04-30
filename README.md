@@ -1,0 +1,1 @@
+This is Rokinijas first git project!
